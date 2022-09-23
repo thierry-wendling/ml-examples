@@ -133,3 +133,4 @@ dmypy.json
 *.tar.gz
 models/
 wandb/
+checkpoint-*/
