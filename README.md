@@ -1,2 +1,2 @@
 # ml-examples
-Examples of various ML tasks
+Examples of ML research projects
