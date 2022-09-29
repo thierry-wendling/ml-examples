@@ -10,12 +10,9 @@
         * RTE
 
 ## ToDo
-0. Add gradient accumulation, lr schedule warmup, early stopping callback
-1. Find Automated Short Answer Grading (ASAG) dataset
-2. Finetune a MNLI-finetuned transformer on ASAG dataset
-3. Try few-shot learning with TARS and compare
-4. Try active learning using BaaL and compare
-5. Try SetFit and compare
+1. Try few-shot learning with TARS and compare
+2. Try active learning using BaaL and compare
+3. Try SetFit and compare
 
 ## References
 ### General
