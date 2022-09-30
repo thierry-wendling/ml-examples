@@ -10,9 +10,7 @@
         * RTE
 
 ## ToDo
-1. Try few-shot learning with TARS and compare
-2. Try active learning using BaaL and compare
-3. Try SetFit and compare
+* Try active learning using BaaL and compare with finetuning
 
 ## References
 ### General
