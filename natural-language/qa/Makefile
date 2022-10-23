@@ -11,7 +11,7 @@ help:
 	{printf "\033[36m%-35s\033[0m %s\n", $$1, $$2}' | sort
 
 #env.setup: @ Installs environment dependencies, creates virtual environment and install dev python packages
-env.setup: e.install-environment-dependencies e.create-virtualenv e.libpostal-dependency e.install-python-dependencies
+env.setup: e.install-environment-dependencies e.create-virtualenv e.install-python-dependencies
 
 #env.delete: @ Removes the current environment
 env.delete:
